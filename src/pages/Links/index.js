@@ -39,7 +39,7 @@ export default function Links() {
         <Link to="/">
           <FiArrowLeft size={38} color="#FFF" />
         </Link>
-        <h1>Meus Links</h1>
+        <h1>My Links</h1>
       </div>
       {emptyList && (
         <div className="links-item">
