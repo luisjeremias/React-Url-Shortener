@@ -1,7 +1,7 @@
 # REACT URL SHORTENER
 This is a simple url shortener project, was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![preview](https://github.com/luisjeremias/React-Url-Shortener/blob/master/Play.gif)
+![preview](https://github.com/luisjeremias/React-Url-Shortener/blob/master/PLay.gif)
 
 To use this app you need to create a api key in [Bit.ly](http://bitly.com/) and paste in the file 
 ## Available Scripts
